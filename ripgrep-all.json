@@ -6,7 +6,6 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/phiresky/ripgrep-all/releases/download/v0.9.6/ripgrep_all-v0.9.6-x86_64-pc-windows-msvc.zip",
-            "hash": "ef26533e7a901755d50adc43c4cf34a267c5e008d1df2ccbae4d3cf8dadf7db3",
             "extract_dir": "ripgrep_all-0.9.6-x86_64-pc-windows-msvc"
         }
     },
